@@ -1,0 +1,6 @@
+{
+  "name": "Bikalpa - Eco-Conscious Living & Natural Products",
+  "description": "Modern, responsive website for Bikalpa featuring eco-friendly natural products, bioenzyme bank, zero-waste crockery bank, composting workshops, and impact tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
